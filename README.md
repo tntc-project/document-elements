@@ -6,12 +6,14 @@ Translation metalanguage of source document elements has been developed in the T
 
 * TML-SDElement-v1-EN (xlsx)
     * Typology
+* TML-SDElement-v1-JA (xlsx)
+    * Typology: Japanese translation of TML-SDElement-v1-EN.
 
 ## Author
 
-TML-SDElement-v1-EN was developed by Takuya Miyauchi and Rei Miyata (equal contribution). The details of its development are described in Miyata and Miyauchi (2022).
+TML-SDElement-v1-EN/JA was developed by Takuya Miyauchi and Rei Miyata (equal contribution). The details of its development are described in Miyata and Miyauchi (2022).
 
-The Excel file for download was created by Rei Miyata.
+The Excel files for download were created by Rei Miyata.
 
 ## Acknowledgements
 
